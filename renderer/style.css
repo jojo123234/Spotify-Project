@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+#searchInput {
+    padding: 8px;
+    margin-right: 5px;
+}
+
+#searchButton {
+    padding: 8px 12px;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+.track {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "<div style=\"background-color: white; height: 4px; width: 100%; margin: 20px 0;\"></div>",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojo123234/Spotify-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojo123234/Spotify-Project/issues"
+  },
+  "homepage": "https://github.com/jojo123234/Spotify-Project#readme",
+  "dependencies": {
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
